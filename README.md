@@ -15,6 +15,7 @@
   - [客户端](#客户端)
   - [服务端](#服务端)
   - [CLEO](#cleo)
+  - [地图包](#地图包)
 
 非常感谢各位的贡献:)
 
@@ -68,3 +69,8 @@
 
 - [纯数字速度表](https://www.123pan.com/s/PmYcVv-4QAt.html) 提取码: `kfu3`
 - [666 合集](https://www.123pan.com/s/PmYcVv-xQAt.html) 提取码: `cYCd`
+
+## 地图包
+
+- [1.2](https://www.123pan.com/s/PmYcVv-pQAt.html) 提取码: `VqaE`
+- [1.3](https://www.123pan.com/s/PmYcVv-fQAt.html) 提取码: `vTyr`
