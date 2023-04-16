@@ -17,6 +17,8 @@
   - [游戏模式](#游戏模式)
   - [CLEO](#cleo)
   - [地图包](#地图包)
+  - [光影](#光影)
+  - [车辆](#车辆)
 
 非常感谢各位的贡献:)
 
@@ -25,9 +27,26 @@
 ## 资源下载
 
 - [IGTA](http://www.igta.vip) 侠盗飞车资源网-圣安地列斯 MOD 资源下载站
+- [GTABBS](https://web.archive.org/web/20130115075018/http://www.gtabbs.com/) 时代的眼泪，分享的责任与获取的自由
+- [GTAUN](https://web.archive.org/web/20130604113228/http://gtaun.net/) 时代的眼泪，早期 SAMP 联机和技术分享论坛
 
 ## 服务器
 
+- 未来世界
+- 自由居民区
+- 拍摄现场
+- 酷派天空
+- 狂野之城
+- 兰草乡村
+- 现代都市
+- 教父
+- 猎人都市
+- 飞行天下
+- 现代战争
+- 风云再起浩劫
+- dayz
+- 9f
+- lsrp
 - Drift Star:★ 自由城 1 `samp://ds.zycdjz.com:7777`
 - RST 团队官方服务器 `samp://121.196.216.143:7777`
 
@@ -37,8 +56,16 @@
 
 ## 联机工具
 
+- [考古 0.1](https://www.123pan.com/s/PmYcVv-DQAt.html) 提取码: `b8DY`
+- [考古 0.2](https://www.123pan.com/s/PmYcVv-rQAt.html) 提取码: `7rxn`
+- [考古 0.3](https://www.123pan.com/s/PmYcVv-8QAt.html) 提取码: `joZm`
+- [主流 0.3.7](https://www.123pan.com/s/PmYcVv-0QAt.html) 提取码: `V8k3`
+- [最后的 samp 0.3.dl](https://www.123pan.com/s/PmYcVv-KQAt.html) 提取码: `rsYp`
+- [由社区维护的次世代 samp](https://open.mp)
+
 ## 客户端
 
+- [游戏本体](https://www.123pan.com/s/PmYcVv-RQAt.html) 提取码: `PAYu`
 - [1.0 降级补丁](https://www.123pan.com/s/PmYcVv-i9At.html) 提取码: `gtEB`
 
 ## 滤镜脚本
@@ -84,6 +111,7 @@
 - [梦幻城开源第二版](https://www.123pan.com/s/PmYcVv-oQAt.html) 提取码: `EW7X`
 - [滨海都市](https://www.123pan.com/s/PmYcVv-mQAt.html) 提取码: `5uyo`
 - [滨海都市](https://www.123pan.com/s/PmYcVv-1QAt.html) 提取码: `yYBp`
+- [RST 官方服务器](https://github.com/racespeedtime/pawn-server)
 
 ## CLEO
 
@@ -94,3 +122,13 @@
 
 - [1.2](https://www.123pan.com/s/PmYcVv-pQAt.html) 提取码: `VqaE`
 - [1.3](https://www.123pan.com/s/PmYcVv-fQAt.html) 提取码: `vTyr`
+
+## 光影
+
+- [ITC-1314](https://www.123pan.com/s/PmYcVv-CQAt.html) 提取码: `Kofm`
+
+## 车辆
+
+- [240SX infernus 版](https://www.123pan.com/s/PmYcVv-NQAt.html) 提取码: `NYyi` 应该有三个版本，这应该是最常见的版本。[ITC]RR_LXD 的爱车。
+- [240SX buffalo 版](https://www.123pan.com/s/PmYcVv-OQAt.html) 提取码: `lpuF`
+- [S14/200SX](https://www.123pan.com/s/PmYcVv-uQAt.html) 提取码: `ZreG`
