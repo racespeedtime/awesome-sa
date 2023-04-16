@@ -13,7 +13,8 @@
   - [开发工具](#开发工具)
   - [联机工具](#联机工具)
   - [客户端](#客户端)
-  - [服务端](#服务端)
+  - [滤镜脚本](#滤镜脚本)
+  - [游戏模式](#游戏模式)
   - [CLEO](#cleo)
   - [地图包](#地图包)
 
@@ -40,7 +41,26 @@
 
 - [1.0 降级补丁](https://www.123pan.com/s/PmYcVv-i9At.html) 提取码: `gtEB`
 
-## 服务端
+## 滤镜脚本
+
+- [SAMP 邮箱验证系统](https://www.123pan.com/s/PmYcVv-aQAt.html) 提取码: `1ZGO` 发送内部请求调用 PHP 发送邮箱
+- [P-Race](https://www.123pan.com/s/PmYcVv-BQAt.html) 提取码: `1NXu` 高级赛车系统鼻祖, 造就初代 Dylan 兰草乡村核心部分之一, 自 GTAUN
+- [P-House 和家具](https://www.123pan.com/s/PmYcVv-JQAt.html) 提取码: `z55P` 房屋系统, 造就初代 Dylan 兰草乡村核心部分之一, 自 GTAUN
+- [JunkBuster11](https://www.123pan.com/s/PmYcVv-IQAt.html) 提取码: `Rq7F` 老牌反作弊, 现在被更流行的 Nex-AC 取代
+- [FunnyTown_register](https://www.123pan.com/s/PmYcVv-MQAt.html) 提取码: `8anw` 应该是一个注册脚本的例子
+- [Bank](https://www.123pan.com/s/PmYcVv-wQAt.html) 提取码: `UOl0` 应该是银行相关的例子
+- [摊位背包](https://www.123pan.com/s/PmYcVv-gQAt.html) 提取码: `mSFT`
+- [赛道实时排行](https://www.123pan.com/s/PmYcVv-FQAt.html) 提取码: `uruC` 增强 P-Race, 用于 RST 官方服务器的房间内排名计算
+- [反 m0d 赛道 cp 点传送](https://www.123pan.com/s/PmYcVv-YQAt.html) 提取码: `VD2G` 一个很简单的检查 0 速抵达红点
+- [签到](https://www.123pan.com/s/PmYcVv-GQAt.html) 提取码: `lUDH`
+- [牢笼脚本](https://www.123pan.com/s/PmYcVv-PQAt.html) 提取码: `IVJz`
+- [定点脚本-Vmake](https://www.123pan.com/s/PmYcVv-XQAt.html) 提取码: `G3tE` 一个创造坐标用于传送的脚本
+- [灯光增强](https://www.123pan.com/s/PmYcVv-nQAt.html) 提取码: `JOJz`
+- [变色车](https://www.123pan.com/s/PmYcVv-2QAt.html) 提取码: `9Hwz` 一个简单的定时器，让车辆变色，是初代 Dylan 兰草乡村玩家们的回忆
+- [安全信息记录](https://www.123pan.com/s/PmYcVv-sQAt.html) 提取码: `Im7q` 不太清楚
+- [TDEDITOR 1.17](https://www.123pan.com/s/PmYcVv-WQAt.html) 提取码: `tDo3` 老牌的文本绘制编辑器, 现在应该有更流行的版本取缔
+
+## 游戏模式
 
 - [5F 自由居民区 不含赛车系统](https://www.123pan.com/s/PmYcVv-vQAt.html) 提取码: `9f7V`
 - [7F 未来世界 2011](https://www.123pan.com/s/PmYcVv-j9At.html) 提取码: `v548`
