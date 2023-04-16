@@ -14,6 +14,7 @@
   - [联机工具](#联机工具)
   - [客户端](#客户端)
   - [服务端](#服务端)
+  - [CLEO](#cleo)
 
 非常感谢各位的贡献:)
 
@@ -62,3 +63,8 @@
 - [梦幻城开源第二版](https://www.123pan.com/s/PmYcVv-oQAt.html) 提取码: `EW7X`
 - [滨海都市](https://www.123pan.com/s/PmYcVv-mQAt.html) 提取码: `5uyo`
 - [滨海都市](https://www.123pan.com/s/PmYcVv-1QAt.html) 提取码: `yYBp`
+
+## CLEO
+
+- [纯数字速度表](https://www.123pan.com/s/PmYcVv-4QAt.html) 提取码: `kfu3`
+- [666 合集](https://www.123pan.com/s/PmYcVv-xQAt.html) 提取码: `cYCd`
