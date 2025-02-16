@@ -26,7 +26,7 @@
 
 ## 资源下载
 
-- [IGTA](http://www.igta.vip) 侠盗飞车资源网-圣安地列斯 MOD 资源下载站
+- [IGTA](https://web.archive.org/web/20230812121426/http://www.igta.vip/) 侠盗飞车资源网-圣安地列斯 MOD 资源下载站
 - [GTABBS](https://web.archive.org/web/20130115075018/http://www.gtabbs.com/) 时代的眼泪，分享的责任与获取的自由
 - [GTAUN](https://web.archive.org/web/20130604113228/http://gtaun.net/) 时代的眼泪，早期 SAMP 联机和技术分享论坛
 
